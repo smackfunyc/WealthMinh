@@ -1,7 +1,7 @@
 # WealthMinh
 # 🐼 WealthMinh AI
 
-> **Your AI-Powered Second Brain for Financial Advisory Excellence**
+> **An AI-Powered Second Brain for Financial Advisory Excellence**
 
 A comprehensive wealth management platform that leverages artificial intelligence to provide proactive portfolio insights, automated client management, and intelligent recommendations for financial advisors.
 
@@ -35,7 +35,7 @@ A comprehensive wealth management platform that leverages artificial intelligenc
 
 **[View Live Application](https://fantastic-pasca-ab3645.netlify.app)**
 
-Experience the full functionality of WealthMinh AI with our interactive demo featuring sample client data and AI insights.
+Experience the full functionality of WealthMinh AI with an interactive demo featuring sample client data and AI insights.
 
 ## 🛠️ Technology Stack
 
@@ -158,14 +158,14 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🆘 Support
 
 For support and questions:
-- 📧 Email: support@wealthminhai.com
+- 📧 Email: cmnst7@gmail.com
 - 💬 Documentation: [docs.wealthminhai.com](https://docs.wealthminhai.com)
-- 🐛 Issues: [GitHub Issues](https://github.com/your-repo/issues)
+- 🐛 Issues: [GitHub Issues](https://github.com/smackfunyc/WealthMinh/issues)
 
 ## 🎉 Acknowledgments
 
 - Built with ❤️ for financial advisors
-- Powered by modern web technologies
+- Powered by Bolt.new
 - Designed for scalability and performance
 
 ---
