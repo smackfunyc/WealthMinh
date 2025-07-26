@@ -159,13 +159,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For support and questions:
 - 📧 Email: cmnst7@gmail.com
-- 💬 Documentation: [docs.wealthminhai.com](https://docs.wealthminhai.com)
 - 🐛 Issues: [GitHub Issues](https://github.com/smackfunyc/WealthMinh/issues)
 
 ## 🎉 Acknowledgments
 
 - Built with ❤️ for financial advisors
-- Powered by Bolt.new
 - Designed for scalability and performance
 
 ---
